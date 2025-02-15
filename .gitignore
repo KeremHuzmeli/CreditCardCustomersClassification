@@ -131,6 +131,7 @@ celerybeat.pid
 .env
 .venv
 env/
+creditCard/
 venv/
 ENV/
 env.bak/
