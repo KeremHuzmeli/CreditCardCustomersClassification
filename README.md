@@ -33,7 +33,6 @@ pip install -r requirements.txt
 To train the model, execute the following command:
 ```bash
 python data_ingestion.py
-python train_model.py
 ```
 
 ### 3. Run the Application
