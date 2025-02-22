@@ -3,6 +3,8 @@
 ## Project Overview
 This project aims to predict customer churn in a credit card business using machine learning. By analyzing customer demographics, transaction history, and account details, we can determine the likelihood of a customer leaving the service.
 
+![Overview](webpage.png)
+
 ## Features
 The dataset includes the following key features:
 - **Customer Age**
